@@ -1,3 +1,15 @@
+# libapng
+
+![libpng](https://avatars.githubusercontent.com/u/221484659?s=400&u=4059b17d5cc2bbcb8ce784e1136babbb61739feb&v=4 "libapng")  
+
+**Animated png file format library written in C**  
+
+libapng is a fork of the upstream [libpng](https://github.com/pnggroup/libpng).  
+It was mainly created to add support for animated png.
+
+---------------------------------
+#### Readme from the upstream repository
+
 README for libpng version 1.6.48
 ================================
 
